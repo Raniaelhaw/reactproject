@@ -52,7 +52,7 @@ import styled from 'styled-components';
 
              <div className="footer-bottom">
                  <p className="text-xs-center">
-                     &copy;{new Date().getFullYear()} safari company-All Rights Reserved
+                     &copy;{new Date().getFullYear()} company-All Rights Reserved
                  </p>
              </div>
 
